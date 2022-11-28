@@ -1,0 +1,4 @@
+C:\Users\DELL\source\repos\SeleniumWithCSharp\SeleniumWithCSharp\obj\Debug\net6.0\SeleniumWithCSharp.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\SeleniumWithCSharp\SeleniumWithCSharp\obj\Debug\net6.0\SeleniumWithCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\SeleniumWithCSharp\SeleniumWithCSharp\obj\Debug\net6.0\SeleniumWithCSharp.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\SeleniumWithCSharp\SeleniumWithCSharp\obj\Debug\net6.0\SeleniumWithCSharp.csproj.CoreCompileInputs.cache

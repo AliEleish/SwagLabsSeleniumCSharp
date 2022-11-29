@@ -6,6 +6,7 @@
 - Page Object Model ( POM ) and Page Factory
 - Reporting using ExtentReoprts with ScreenShots if the test fails.
 - Test Cases Grouping.
+- Data-Driven Testing.
 
 ### Tools:
 - Selenium.WebDriver 4.5.1
